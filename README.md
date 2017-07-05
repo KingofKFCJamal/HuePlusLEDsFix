@@ -19,7 +19,7 @@ A fix for people having trouble changing the modes/colors on their LEDs or not h
 		WINGS
 	
 ### Options
-		Option | Description
+Option | Description
 ------------ | -------------
 `<LedGroupSize>0</LedGroupSize>` | The LED Group size when moving/selected, 0 = 3 LEDs/group - 3 = 6 LEDs/group, Default is 0
 `<Speed>0</Speed>` | The speed of how fast the LEDs go, 0 = Slowest, 4 = Fastest
