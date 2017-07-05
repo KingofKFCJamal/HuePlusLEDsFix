@@ -3,7 +3,7 @@ A fix for people having trouble changing the modes/colors on their LEDs or not h
 
 ### Usage
  Drag and drop this file in your main directory of CAM and open up in your prefer text editor.
- To change a mode, go to <SelectedModeName> and change the text in between <string> </string> to your choosing.
+ To change a mode, go to `<SelectedModeName>` and change the text in between `<string> </string>` to your choosing.
  
 ### Modes
 		FIXED
